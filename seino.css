@@ -1,0 +1,15 @@
+img { border: 0; }
+address { text-align: right; }
+
+body { margin-top: 0; 
+font-family: 'Courier', serif; font-size: 120%; 
+scrollbar-base-color: #fff; scrollbar-face-color: #fff; 
+scrollbar-highlight-color: #777; scrollbar-shadow-color: #777; 
+scrollbar-3dlight-color: #000; scrollbar-darkshadow-color: #000; 
+scrollbar-track-color: #fff; scrollbar-arrow-color: #777; }
+
+a:link { text-decoration: underline; color: #009; }
+a:visited { text-decoration: underline; color: #77c; }
+a:active { text-decoration: none; color: #900; }
+a:hover { text-decoration: none; color: #900; }
+
